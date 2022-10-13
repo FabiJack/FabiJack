@@ -5,6 +5,9 @@
   <meta charset="UTF-8">
   <meta http-equiv="refresh" content="30">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    div.solid {border-style: solid;}
+  </style>
 </head>
   
 <body>
@@ -12,7 +15,7 @@
 <img style="float:right;" src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" />
 <h3 align="center">A passionate frontend developer from Chile</h3>
   
-<div style="border-style: solid black;">
+<div class="solid">
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
