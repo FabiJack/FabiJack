@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabian Jaque Villalobos</h1>
-<p style="float:right;" ><img src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" /></p>
+<img style="float:right;" src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" />
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 <h3 align="left">Languages and Tools:</h3>
