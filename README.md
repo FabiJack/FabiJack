@@ -15,7 +15,7 @@
 <div style="border: 5px solid red;">
   
 <h3 align="center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 </div>  
 
