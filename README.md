@@ -23,10 +23,10 @@
   
 </div>  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabijack&show_icons=true&locale=en&layout=compact" alt="fabijack" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabijack&show_icons=true&locale=en" alt="fabijack" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabijack&" alt="fabijack" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabijack&show_icons=true&theme=gotham" alt="fabijack" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=fabijack&show_icons=true&theme=gotham" alt="fabijack"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabijack&show_icons=true&theme=gotham" alt="fabijack"/></p>
+
   
 </body>
 </html>
