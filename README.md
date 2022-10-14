@@ -14,7 +14,7 @@
   
 <div style="border: 5px solid red;">
   
-<h3 align="center">Languages and Tools:</h3>
+<h3 style="border: 5px solid red;" align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,django,angular,bootstrap,vscode"/>
