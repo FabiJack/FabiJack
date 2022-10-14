@@ -12,7 +12,7 @@
 <img style="float:right;" src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" />
 <h3 align="center">A passionate frontend developer from Chile</h3>
   
-<div style="text-align:center;">
+<div style="border: 5px solid red;">
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
