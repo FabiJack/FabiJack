@@ -9,14 +9,14 @@
   
 <body>
 <h1 align="center">Hi! I'm Fabian Jaque Villalobos</h1>
-<img align="center" src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" />
-![alt](https://)
+<img align="left" src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" />
+<p align="right" >PERFIL DE  <a href="https://www.w3profile.com/FabiJack"><img width="50px" src="https://github.com/FabiJack/FabiJack/blob/main/Images/W3Schools_2020.png" alt="fabijack" /></a></p>
 
 <h3 align="center">A passionate frontend developer from Chile</h3>
   
-<div style="border: 5px solid red;">
+<div>
   
-<h3 style="border: 5px solid red;" align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,django,angular,bootstrap,vscode"/>
