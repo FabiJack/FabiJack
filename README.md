@@ -15,7 +15,11 @@
 <div style="border: 5px solid red;">
   
 <h3 align="center">Languages and Tools:</h3>
-https://skillicons.dev/icons?i=js,html,css,wasm
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,vscode,django,angular,bootstrap"/>
+  </a>
+</p>
   
 </div>  
 
