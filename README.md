@@ -20,8 +20,8 @@
     A passionate frontend developer from Chile
   </h2>
   <a href="https://www.w3profile.com/FabiJack"> 
-    PERFIL DE
     <img width="50px" src="https://github.com/FabiJack/FabiJack/blob/main/Images/W3Schools_2020.png" alt="fabijack" />
+    Profile
   </a>
 
  
