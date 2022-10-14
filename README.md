@@ -6,7 +6,8 @@
   <meta http-equiv="refresh" content="30">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    .solid {border-style: black solid;}
+    .solid {border-style: solid;}
+    .solid {border-color: black;}
   </style>
 </head>
   
