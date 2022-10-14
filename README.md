@@ -10,19 +10,27 @@
 <body>
   
 <h1 align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" />
+  <img src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" />
   Hi! I'm Fabian Jaque Villalobos
 </h1>
   
-<h3 align="center">
-  A passionate frontend developer from Chile
-   <p align="right" >
-    PERFIL DE  
-    <a href="https://www.w3profile.com/FabiJack">
-      <img width="50px" src="https://github.com/FabiJack/FabiJack/blob/main/Images/W3Schools_2020.png" alt="fabijack" />
-    </a>
-  </p>
-</h3>
+<div align="center">
+
+  <h2>
+    A passionate frontend developer from Chile
+  </h2>
+  <a href="https://www.w3profile.com/FabiJack"> 
+    PERFIL DE
+    <img width="50px" src="https://github.com/FabiJack/FabiJack/blob/main/Images/W3Schools_2020.png" alt="fabijack" />
+  </a>
+
+ 
+</div>
+
+
+     
+    
+
 
 <div>
   
