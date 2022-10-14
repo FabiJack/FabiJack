@@ -6,8 +6,8 @@
   <meta http-equiv="refresh" content="30">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    .solid {border-style: solid;}
-    .solid {border-color: black;}
+    p.solid {border-style: solid;}
+    p.solid {border-color: black;}
   </style>
 </head>
   
@@ -16,7 +16,7 @@
 <img style="float:right;" src="https://komarev.com/ghpvc/?username=fabijack&label=Profile%20views&color=0e75b6&style=flat" alt="fabijack" />
 <h3 align="center">A passionate frontend developer from Chile</h3>
   
-<div class="solid">
+<p class="solid">
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
@@ -36,7 +36,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   </p>
   
-</div>  
+</p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabijack&show_icons=true&locale=en&layout=compact" alt="fabijack" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabijack&show_icons=true&locale=en" alt="fabijack" /></p>
