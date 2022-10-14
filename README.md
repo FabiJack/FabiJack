@@ -17,7 +17,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,vscode,django,angular,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,django,angular,bootstrap,vscode"/>
   </a>
 </p>
   
