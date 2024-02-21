@@ -15,17 +15,16 @@
 </h1>
   
 <div align="center">
-
   <h2>
     A passionate web developer from Chile
-  </h2>
- 
-</div> 
+  </h2> 
+</div>
+<div>
     <a href="https://www.w3profile.com/FabiJack"> 
       <img width="50px" src="https://github.com/FabiJack/FabiJack/blob/main/Images/W3Schools_2020.png" alt="fabijack" />
       <h3>Profile</h3>
-    </a>
-<div>
+    </a>    
+</div>
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
