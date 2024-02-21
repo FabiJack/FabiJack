@@ -20,7 +20,7 @@
 
 <div align="center" style="display: flex">
   <h3>W3schools Profile</h3>
-  <a href="https://www.w3profile.com/FabiJack"> 
+  <a href="https://www.w3profile.com/FabiJack" target="_blank"> 
     <img width="50px" src="https://github.com/FabiJack/FabiJack/blob/main/Images/W3Schools_2020.png" alt="fabijack" />
   </a>   
 </div>
