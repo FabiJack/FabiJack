@@ -19,19 +19,12 @@
   <h2>
     A passionate web developer from Chile
   </h2>
-  <a href="https://www.w3profile.com/FabiJack"> 
-    <img width="50px" src="https://github.com/FabiJack/FabiJack/blob/main/Images/W3Schools_2020.png" alt="fabijack" />
-    Profile
-  </a>
-
  
-</div>
-
-
-     
-    
-
-
+</div> 
+    <a href="https://www.w3profile.com/FabiJack"> 
+      <img width="50px" src="https://github.com/FabiJack/FabiJack/blob/main/Images/W3Schools_2020.png" alt="fabijack" />
+      <h3>Profile</h3>
+    </a>
 <div>
   
 <h3 align="center">Languages and Tools:</h3>
