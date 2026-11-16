@@ -32,14 +32,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fabijack&show_icons=true&theme=dark" alt="fabijack" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabijack&show_icons=true&theme=dark" alt="fabijack"/>
-</p>
-
 <!-- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabijack&show_icons=true&theme=dark" alt="fabijack"/>
