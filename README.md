@@ -1,10 +1,8 @@
-<a href="https://fabijaqdev.cl">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Images/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="Images/banner-light.svg">
-    <img src="Images/banner-dark.svg" width="100%" alt="Fabián Jaque Villalobos — web and mobile developer in Santiago, Chile">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Images/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="Images/banner-light.svg">
+  <img src="Images/banner-dark.svg" width="100%" alt="Fabián Jaque Villalobos — web and mobile developer in Santiago, Chile">
+</picture>
 
 <p align="center">
   <a href="https://fabijaqdev.cl"><img src="Images/btn-portfolio.svg" height="36" alt="Portfolio"></a>
@@ -23,9 +21,9 @@ I'm a computer engineer (Duoc UC) based in Santiago. I build web platforms end t
     <th align="left">Web</th>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,angular,nextjs,bootstrap&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,angular,nextjs,bootstrap&theme=light">
-        <img src="https://skillicons.dev/icons?i=html,css,js,angular,nextjs,bootstrap" height="40" alt="HTML, CSS, JavaScript, Angular, Next.js, Bootstrap">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cangular%2Cnextjs%2Cbootstrap&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cangular%2Cnextjs%2Cbootstrap&theme=light">
+        <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cangular%2Cnextjs%2Cbootstrap" height="40" alt="HTML, CSS, JavaScript, Angular, Next.js, Bootstrap">
       </picture>
     </td>
   </tr>
@@ -33,9 +31,9 @@ I'm a computer engineer (Duoc UC) based in Santiago. I build web platforms end t
     <th align="left">Backend and data</th>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,django,mysql&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,django,mysql&theme=light">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mysql" height="40" alt="Node.js, Express, Python, Django, MySQL">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cmysql&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cmysql&theme=light">
+        <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cmysql" height="40" alt="Node.js, Express, Python, Django, MySQL">
       </picture>
     </td>
   </tr>
@@ -43,9 +41,9 @@ I'm a computer engineer (Duoc UC) based in Santiago. I build web platforms end t
     <th align="left">Mobile and tools</th>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,git,vscode&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,git,vscode&theme=light">
-        <img src="https://skillicons.dev/icons?i=flutter,git,vscode" height="40" alt="Flutter, Git, VS Code">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cgit%2Cvscode&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter%2Cgit%2Cvscode&theme=light">
+        <img src="https://skillicons.dev/icons?i=flutter%2Cgit%2Cvscode" height="40" alt="Flutter, Git, VS Code">
       </picture>
     </td>
   </tr>
