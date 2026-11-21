@@ -59,12 +59,6 @@ I'm a computer engineer (Duoc UC) based in Santiago. I build web platforms end t
   </tr>
 </table>
 
-<!--
-  CONTRIBUTION SNAKE
-  Uncomment this block after running the "Generate snake animation" workflow once
-  (Actions tab > Generate snake animation > Run workflow). It creates the "output" branch
-  these images are served from, and refreshes them every day.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabiJack/FabiJack/output/github-snake-dark.svg">
@@ -72,7 +66,6 @@ I'm a computer engineer (Duoc UC) based in Santiago. I build web platforms end t
     <img src="https://raw.githubusercontent.com/FabiJack/FabiJack/output/github-snake.svg" width="100%" alt="Contribution graph being eaten by a snake">
   </picture>
 </p>
--->
 
 <!--
   STREAK CARD
