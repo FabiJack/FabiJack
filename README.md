@@ -12,7 +12,7 @@
   <a href="https://www.w3profile.com/FabiJack"><img src="Images/btn-w3schools.svg" height="36" alt="W3Schools profile"></a>
 </p>
 
-I'm a computer engineer (Duoc UC) based in Santiago. I build web platforms end to end and ship mobile apps to Google Play and the App Store.
+I'm a computer engineer (Duoc UC) based in Santiago. I build web platforms end to end and ship mobile apps to Google Play and the App Store. I work in Spanish and English (B2).
 
 ### What I build with
 
@@ -31,9 +31,19 @@ I'm a computer engineer (Duoc UC) based in Santiago. I build web platforms end t
     <th align="left">Backend and data</th>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cmysql&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cmysql&theme=light">
-        <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cmysql" height="40" alt="Node.js, Express, Python, Django, MySQL">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cdotnet%2Cmysql&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cdotnet%2Cmysql&theme=light">
+        <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cdjango%2Cdotnet%2Cmysql" height="40" alt="Node.js, Express, Python, Django, .NET, MySQL">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Cloud</th>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Caws%2Cgcp&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Caws%2Cgcp&theme=light">
+        <img src="https://skillicons.dev/icons?i=azure%2Caws%2Cgcp" height="40" alt="Azure, AWS, Google Cloud">
       </picture>
     </td>
   </tr>
